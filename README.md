@@ -13,7 +13,8 @@ Welcome to my Codewars progress! Below you'll find information about my complete
 
 ## Task Breakdown:
 Here is a visual representation of the tasks I have solved so far:
-![Animated Progress](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z0MnRldGhjZDlxemM5aDA1OHV5c21qamFxYWhyN2NobWZ3bWl5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXnj3jCwvETngjy11B/giphy-downsized-large.gif)
+![Animated Progress](https://www.google.com/url?sa=i&url=https%3A%2F%2Fclassic.yarnpkg.com%2Fen%2Fpackage%2Fmaid-cli&psig=AOvVaw2bErK4tdhNPkxN8XpRDoeO&ust=1734266116924000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiHsv2ip4oDFQAAAAAdAAAAABAE)
+
 
 ## About Me:
 I’m a frontend developer and a programming enthusiast who loves solving problems and learning new things on Codewars!
