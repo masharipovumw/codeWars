@@ -13,7 +13,7 @@ Welcome to my Codewars progress! Below you'll find information about my complete
 
 ## Task Breakdown:
 Here is a visual representation of the tasks I have solved so far:
-![Animated Progress]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fclassic.yarnpkg.com%2Fen%2Fpackage%2Fmaid-cli&psig=AOvVaw2bErK4tdhNPkxN8XpRDoeO&ust=1734266116924000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiHsv2ip4oDFQAAAAAdAAAAABAE](https://i.imgur.com/7A5ZfPJ.gif))
+![Animated Progress](https://i.imgur.com/7A5ZfPJ.gif)
 
 
 ## About Me:
