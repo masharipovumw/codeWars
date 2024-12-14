@@ -6,7 +6,7 @@ Welcome to my Codewars progress! Below you'll find information about my complete
 ![Codewars Kyu Badge](https://www.codewars.com/users/masharipovumw/badges/large)
 
 ## Solved Tasks:
-![Progress](https://img.shields.io/badge/Solved%20Tasks-18%20tasks-brightgreen)
+![Progress](https://img.shields.io/badge/Solved%20Tasks-39%20tasks-brightgreen)
 
 ## Current Rank:
 ![Rank](https://img.shields.io/badge/Kyu-Level%206-yellow)
