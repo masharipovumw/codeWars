@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" alt="Animated Showcase" width="80%" />
+
 # Codewars Achievements
 
 Welcome to my Codewars progress! Below you'll find information about my completed tasks and current Kyu rank.
